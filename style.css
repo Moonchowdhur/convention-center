@@ -1,0 +1,16 @@
+nav{
+    background-color: white;
+}
+
+.carousel-item img{
+    width: 95%;
+    height: 80vh;
+}
+
+ul li{
+    list-style: none;
+}
+
+.change{
+    border-radius: 10%;
+}
