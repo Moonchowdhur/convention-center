@@ -14,3 +14,18 @@ ul li{
 .change{
     border-radius: 10%;
 }
+
+
+.last-section{
+    background-color: black;
+}
+
+.position{
+    position: relative;
+    right:-100px !important;
+}
+
+.top2{
+    position: relative;
+    left: 50px;
+}
